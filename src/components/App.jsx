@@ -6,7 +6,7 @@ import { Loader } from './Loader';
 import { Button } from './Button';
 import { Modal } from './Modal';
 
-const API_KEY = '42633230-038735307d7a30593a43e4bc7';
+const API_KEY = '42459291-7f50c47c6b19e5b61fce58d70';
 
 export const App = () => {
   const [query, setQuery] = useState('');
